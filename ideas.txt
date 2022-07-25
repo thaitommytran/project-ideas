@@ -1,0 +1,6 @@
+Specs Capstone Project Ideas:
+1. Password Manager for Streaming Sites
+2. E-commerce for Mechanical Keyboards
+3. Landing Page for my Mother's Nail Shop
+4. Random Restaurant Picker for Sunday Brunch
+5. Connect 4 Clone with React
